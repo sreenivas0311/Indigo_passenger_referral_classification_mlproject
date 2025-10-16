@@ -1,3 +1,14 @@
+**skills**
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) 
+![Seaborn](https://img.shields.io/badge/Seaborn-77AC30?style=for-the-badge) 
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
+![Analysis](https://img.shields.io/badge/Analysis-FF5722?style=for-the-badge&logo=analytics&logoColor=white) 
+![Statistics](https://img.shields.io/badge/Statistics-4CAF50?style=for-the-badge&logo=chart&logoColor=white) 
 # Airline Passenger Recommendation Prediction Classification 
 
 <img width="612" height="417" alt="image" src="https://github.com/user-attachments/assets/e154448c-083a-4480-ac56-18a8faf63ef4" />
