@@ -110,5 +110,3 @@ The model enables airlines to:
 This project demonstrates how machine learning can uncover valuable insights from passenger feedback and assist airlines in enhancing service quality to drive loyalty and growth.
 
 
-
-![image](https://github.com/user-attachments/assets/f6a7260a-18af-4821-a4a5-1ee6e2dd91c3)
